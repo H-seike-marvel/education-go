@@ -15,5 +15,6 @@ func main() {
 	}
 
 	fmt.Println("Sum:", stats.Sum(nums))
-	fmt.Println("Avg:", stats.Avg(nums))
+	// Divice
+	// FizzBuzz
 }
